@@ -108,7 +108,7 @@ I am particularly interested in building **reliable, maintainable, and user-orie
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/farah-bouhzam-975757323/)
+- 💼 LinkedIn: [mylinkedin](https://www.linkedin.com/in/farah-bouhzam-975757323/)
 ---
 
 ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
